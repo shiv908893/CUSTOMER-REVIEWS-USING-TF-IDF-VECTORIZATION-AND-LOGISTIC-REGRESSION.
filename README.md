@@ -25,3 +25,5 @@ Explanation of Steps:
 3.	Logistic Regression: A robust linear model used here for multi-class classification. It calculates the probability of each class and assigns the most likely one.
 4.	Label Encoding: Since machine learning models require numeric targets, we mapped the category strings (Both, Cats, Dogs, Neither) into integers.
 
+<img width="595" height="432" alt="Image" src="https://github.com/user-attachments/assets/af30cca5-3a24-42a8-bec6-3f6f02e4fa89" />
+<img width="926" height="509" alt="Image" src="https://github.com/user-attachments/assets/a68cfad0-f991-47f8-8db4-0fa095c58e2e" />
